@@ -1,0 +1,6 @@
+{
+  "name": "OpenVideo Studio",
+  "description": "Low-resource, open-source-first AI Video Automation and deterministic FFmpeg editing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
